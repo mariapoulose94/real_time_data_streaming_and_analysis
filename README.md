@@ -22,7 +22,7 @@ Low: The lowest price of the stock during that day or time interval.
 Close: The price at which the stock ended trading at the end of the day or time interval.
 Volume: The number of shares traded during the day or specific time interval.
 
-The equity we consider is 'IBM'.
+The stock symbol we considered is 'IBM'. The rate set is 1 minute.
 
 ### Kinesis Data Streams:
 
