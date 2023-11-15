@@ -22,6 +22,8 @@ Low: The lowest price of the stock during that day or time interval.
 Close: The price at which the stock ended trading at the end of the day or time interval.
 Volume: The number of shares traded during the day or specific time interval.
 
+The equity we consider is 'IBM'.
+
 ### Kinesis Data Streams:
 
 This service acts as a buffer and temporary storage mechanism for streaming data. It captures and stores data records in the order they are received.
